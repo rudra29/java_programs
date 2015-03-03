@@ -1,0 +1,13 @@
+1. Install JDK 8 and JRE 8 i.e JAVA
+
+2. To check whether installation is correct, go to command prompt (type cmd in start menu)
+
+3. Type Java press enter in command prompt ... if installation is correct it will show list of commands
+
+4. Download these files and kept in a folder ...e.g. C:/MyPrograms
+
+5. After that, open command prompt and browse to that folder ..e.g. cd MyPrograms
+
+6. Run the program by typing " java -jar MainApp.jar "
+
+7. Check Sample output for details of output

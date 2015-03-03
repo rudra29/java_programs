@@ -1,7 +1,10 @@
 var fs=require('fs');
 
 //var buff = fs.readFileSync(process.argv.toString());
-var buff = fs.readFile("test.txt");
+var buff =null;
+ fs.readFile("test.txt", function(err,data){
+ 	buff
+});
 
 var str= buff.toString();
 
